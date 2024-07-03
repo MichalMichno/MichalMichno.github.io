@@ -1,7 +1,9 @@
 # MichalMichno.github.io
-<!DOCTYPE html>
 
 <head>
+  body {
+  background-image: url(https://images.techhive.com/images/article/2014/04/windows-xp-bliss-start-screen-100259803-orig.jpg);
+}
   <link rel ="Stylesheet" type="text/css" href="style.css">
   <h2>
     About me:
